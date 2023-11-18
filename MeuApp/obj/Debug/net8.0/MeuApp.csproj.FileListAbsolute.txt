@@ -1,0 +1,14 @@
+D:\Curso-CSharp\MeuApp\bin\Debug\net8.0\MeuApp.exe
+D:\Curso-CSharp\MeuApp\bin\Debug\net8.0\MeuApp.deps.json
+D:\Curso-CSharp\MeuApp\bin\Debug\net8.0\MeuApp.runtimeconfig.json
+D:\Curso-CSharp\MeuApp\bin\Debug\net8.0\MeuApp.dll
+D:\Curso-CSharp\MeuApp\bin\Debug\net8.0\MeuApp.pdb
+D:\Curso-CSharp\MeuApp\obj\Debug\net8.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso-CSharp\MeuApp\obj\Debug\net8.0\MeuApp.AssemblyInfoInputs.cache
+D:\Curso-CSharp\MeuApp\obj\Debug\net8.0\MeuApp.AssemblyInfo.cs
+D:\Curso-CSharp\MeuApp\obj\Debug\net8.0\MeuApp.csproj.CoreCompileInputs.cache
+D:\Curso-CSharp\MeuApp\obj\Debug\net8.0\MeuApp.dll
+D:\Curso-CSharp\MeuApp\obj\Debug\net8.0\refint\MeuApp.dll
+D:\Curso-CSharp\MeuApp\obj\Debug\net8.0\MeuApp.pdb
+D:\Curso-CSharp\MeuApp\obj\Debug\net8.0\MeuApp.genruntimeconfig.cache
+D:\Curso-CSharp\MeuApp\obj\Debug\net8.0\ref\MeuApp.dll
