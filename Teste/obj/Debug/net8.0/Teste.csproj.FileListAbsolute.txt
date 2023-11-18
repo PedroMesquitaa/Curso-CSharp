@@ -1,0 +1,14 @@
+D:\Curso-CSharp\Teste\bin\Debug\net8.0\Teste.exe
+D:\Curso-CSharp\Teste\bin\Debug\net8.0\Teste.deps.json
+D:\Curso-CSharp\Teste\bin\Debug\net8.0\Teste.runtimeconfig.json
+D:\Curso-CSharp\Teste\bin\Debug\net8.0\Teste.dll
+D:\Curso-CSharp\Teste\bin\Debug\net8.0\Teste.pdb
+D:\Curso-CSharp\Teste\obj\Debug\net8.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso-CSharp\Teste\obj\Debug\net8.0\Teste.AssemblyInfoInputs.cache
+D:\Curso-CSharp\Teste\obj\Debug\net8.0\Teste.AssemblyInfo.cs
+D:\Curso-CSharp\Teste\obj\Debug\net8.0\Teste.csproj.CoreCompileInputs.cache
+D:\Curso-CSharp\Teste\obj\Debug\net8.0\Teste.dll
+D:\Curso-CSharp\Teste\obj\Debug\net8.0\refint\Teste.dll
+D:\Curso-CSharp\Teste\obj\Debug\net8.0\Teste.pdb
+D:\Curso-CSharp\Teste\obj\Debug\net8.0\Teste.genruntimeconfig.cache
+D:\Curso-CSharp\Teste\obj\Debug\net8.0\ref\Teste.dll
