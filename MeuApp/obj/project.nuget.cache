@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AIokF15rg8nt/b7k+NO+f3id5q6P0uC7vB1DekCK87auz3a8IqFXiicGJBmlC3nbgoAn8Zo7Ag9iJe0dUv0VfQ==",
+  "dgSpecHash": "odp4X1asHkGmAL2a7cGOpNseFRpqSRsa+HkmfTPxwZP0OIbY13D3ech6wWJnLOw4zrhjl2nLXE7AXMOxAVVVvA==",
   "success": true,
-  "projectFilePath": "D:\\Curso-CSharp\\MeuApp\\MeuApp.csproj",
+  "projectFilePath": "C:\\Curso-CSharp\\MeuApp\\MeuApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

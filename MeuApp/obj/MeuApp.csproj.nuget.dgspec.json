@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Curso-CSharp\\MeuApp\\MeuApp.csproj": {}
+    "C:\\Curso-CSharp\\MeuApp\\MeuApp.csproj": {}
   },
   "projects": {
-    "D:\\Curso-CSharp\\MeuApp\\MeuApp.csproj": {
+    "C:\\Curso-CSharp\\MeuApp\\MeuApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curso-CSharp\\MeuApp\\MeuApp.csproj",
+        "projectUniqueName": "C:\\Curso-CSharp\\MeuApp\\MeuApp.csproj",
         "projectName": "MeuApp",
-        "projectPath": "D:\\Curso-CSharp\\MeuApp\\MeuApp.csproj",
+        "projectPath": "C:\\Curso-CSharp\\MeuApp\\MeuApp.csproj",
         "packagesPath": "C:\\Users\\Pedro Mesquita\\.nuget\\packages\\",
-        "outputPath": "D:\\Curso-CSharp\\MeuApp\\obj\\",
+        "outputPath": "C:\\Curso-CSharp\\MeuApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro Mesquita\\AppData\\Roaming\\NuGet\\NuGet.Config",
