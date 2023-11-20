@@ -6,8 +6,12 @@ namespace MeuApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            var texto = "Testando";
-            Console.WriteLine(texto);
+            int? idade = 0;
+            Console.WriteLine(idade);
+            idade = null;
+            Console.WriteLine(idade);
+            idade = 25;
+            Console.WriteLine(idade);
         }
     }
 }
