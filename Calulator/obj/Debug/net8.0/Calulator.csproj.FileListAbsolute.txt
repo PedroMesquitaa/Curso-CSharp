@@ -1,0 +1,15 @@
+C:\Curso-CSharp\Calulator\bin\Debug\net8.0\Calulator.exe
+C:\Curso-CSharp\Calulator\bin\Debug\net8.0\Calulator.deps.json
+C:\Curso-CSharp\Calulator\bin\Debug\net8.0\Calulator.runtimeconfig.json
+C:\Curso-CSharp\Calulator\bin\Debug\net8.0\Calulator.dll
+C:\Curso-CSharp\Calulator\bin\Debug\net8.0\Calulator.pdb
+C:\Curso-CSharp\Calulator\obj\Debug\net8.0\Calulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\Calulator\obj\Debug\net8.0\Calulator.AssemblyInfoInputs.cache
+C:\Curso-CSharp\Calulator\obj\Debug\net8.0\Calulator.AssemblyInfo.cs
+C:\Curso-CSharp\Calulator\obj\Debug\net8.0\Calulator.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\Calulator\obj\Debug\net8.0\Calulator.sourcelink.json
+C:\Curso-CSharp\Calulator\obj\Debug\net8.0\Calulator.dll
+C:\Curso-CSharp\Calulator\obj\Debug\net8.0\refint\Calulator.dll
+C:\Curso-CSharp\Calulator\obj\Debug\net8.0\Calulator.pdb
+C:\Curso-CSharp\Calulator\obj\Debug\net8.0\Calulator.genruntimeconfig.cache
+C:\Curso-CSharp\Calulator\obj\Debug\net8.0\ref\Calulator.dll
