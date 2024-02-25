@@ -6,24 +6,43 @@ namespace MeuApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            MeuMetodo();
+            Product mouse = new Product(1, "Mouse gamer", 299.97, EProductType.Product);
+            var manutencaoEletrica = new Product(2, "Manutenção elétrica residencial", 500, EProductType.Service);
 
-            string nome = RetornaNome("Pedro", "Mesquita");
-            Console.WriteLine(nome);
+            mouse.Id = 55;
+
+            Console.WriteLine(mouse.Id);
+            Console.WriteLine(mouse.Name);
+            Console.WriteLine(mouse.Price);
+            Console.WriteLine((int)mouse.Type);
         }
+    }
 
-        static void MeuMetodo()
+    struct Product 
+    {
+
+        public Product(int id, string name, double price, EProductType type)
         {
-            Console.WriteLine("C# é legal");
+            Id = id;
+            Name = name;
+            Price = price;
+            Type = type;
         }
 
-        static string RetornaNome(
-            string nome, 
-            string sobrenome, 
-            int idade = 21
-        )
+        public int Id;
+        public string Name;
+        public double Price;
+        public EProductType Type;
+
+        public double PriceInDolar(double dolar)
         {
-            return nome + " " + sobrenome + " tem " + idade.ToString() + " anos";
+            return Price * dolar;
         }
+    }
+
+    enum EProductType 
+    {
+        Product = 1,
+        Service = 2
     }
 }
