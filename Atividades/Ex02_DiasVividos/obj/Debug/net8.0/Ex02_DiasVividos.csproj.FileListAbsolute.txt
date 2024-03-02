@@ -1,0 +1,15 @@
+C:\Curso-CSharp\Atividades\Ex02_DiasVividos\bin\Debug\net8.0\Ex02_DiasVividos.exe
+C:\Curso-CSharp\Atividades\Ex02_DiasVividos\bin\Debug\net8.0\Ex02_DiasVividos.deps.json
+C:\Curso-CSharp\Atividades\Ex02_DiasVividos\bin\Debug\net8.0\Ex02_DiasVividos.runtimeconfig.json
+C:\Curso-CSharp\Atividades\Ex02_DiasVividos\bin\Debug\net8.0\Ex02_DiasVividos.dll
+C:\Curso-CSharp\Atividades\Ex02_DiasVividos\bin\Debug\net8.0\Ex02_DiasVividos.pdb
+C:\Curso-CSharp\Atividades\Ex02_DiasVividos\obj\Debug\net8.0\Ex02_DiasVividos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\Atividades\Ex02_DiasVividos\obj\Debug\net8.0\Ex02_DiasVividos.AssemblyInfoInputs.cache
+C:\Curso-CSharp\Atividades\Ex02_DiasVividos\obj\Debug\net8.0\Ex02_DiasVividos.AssemblyInfo.cs
+C:\Curso-CSharp\Atividades\Ex02_DiasVividos\obj\Debug\net8.0\Ex02_DiasVividos.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\Atividades\Ex02_DiasVividos\obj\Debug\net8.0\Ex02_DiasVividos.sourcelink.json
+C:\Curso-CSharp\Atividades\Ex02_DiasVividos\obj\Debug\net8.0\Ex02_DiasVividos.dll
+C:\Curso-CSharp\Atividades\Ex02_DiasVividos\obj\Debug\net8.0\refint\Ex02_DiasVividos.dll
+C:\Curso-CSharp\Atividades\Ex02_DiasVividos\obj\Debug\net8.0\Ex02_DiasVividos.pdb
+C:\Curso-CSharp\Atividades\Ex02_DiasVividos\obj\Debug\net8.0\Ex02_DiasVividos.genruntimeconfig.cache
+C:\Curso-CSharp\Atividades\Ex02_DiasVividos\obj\Debug\net8.0\ref\Ex02_DiasVividos.dll
