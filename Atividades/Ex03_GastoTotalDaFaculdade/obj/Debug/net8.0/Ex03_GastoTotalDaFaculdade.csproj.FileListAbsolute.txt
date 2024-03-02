@@ -1,0 +1,15 @@
+C:\Curso-CSharp\Atividades\Ex03_GastoTotalDaFaculdade\bin\Debug\net8.0\Ex03_GastoTotalDaFaculdade.exe
+C:\Curso-CSharp\Atividades\Ex03_GastoTotalDaFaculdade\bin\Debug\net8.0\Ex03_GastoTotalDaFaculdade.deps.json
+C:\Curso-CSharp\Atividades\Ex03_GastoTotalDaFaculdade\bin\Debug\net8.0\Ex03_GastoTotalDaFaculdade.runtimeconfig.json
+C:\Curso-CSharp\Atividades\Ex03_GastoTotalDaFaculdade\bin\Debug\net8.0\Ex03_GastoTotalDaFaculdade.dll
+C:\Curso-CSharp\Atividades\Ex03_GastoTotalDaFaculdade\bin\Debug\net8.0\Ex03_GastoTotalDaFaculdade.pdb
+C:\Curso-CSharp\Atividades\Ex03_GastoTotalDaFaculdade\obj\Debug\net8.0\Ex03_GastoTotalDaFaculdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\Atividades\Ex03_GastoTotalDaFaculdade\obj\Debug\net8.0\Ex03_GastoTotalDaFaculdade.AssemblyInfoInputs.cache
+C:\Curso-CSharp\Atividades\Ex03_GastoTotalDaFaculdade\obj\Debug\net8.0\Ex03_GastoTotalDaFaculdade.AssemblyInfo.cs
+C:\Curso-CSharp\Atividades\Ex03_GastoTotalDaFaculdade\obj\Debug\net8.0\Ex03_GastoTotalDaFaculdade.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\Atividades\Ex03_GastoTotalDaFaculdade\obj\Debug\net8.0\Ex03_GastoTotalDaFaculdade.sourcelink.json
+C:\Curso-CSharp\Atividades\Ex03_GastoTotalDaFaculdade\obj\Debug\net8.0\Ex03_GastoTotalDaFaculdade.dll
+C:\Curso-CSharp\Atividades\Ex03_GastoTotalDaFaculdade\obj\Debug\net8.0\refint\Ex03_GastoTotalDaFaculdade.dll
+C:\Curso-CSharp\Atividades\Ex03_GastoTotalDaFaculdade\obj\Debug\net8.0\Ex03_GastoTotalDaFaculdade.pdb
+C:\Curso-CSharp\Atividades\Ex03_GastoTotalDaFaculdade\obj\Debug\net8.0\Ex03_GastoTotalDaFaculdade.genruntimeconfig.cache
+C:\Curso-CSharp\Atividades\Ex03_GastoTotalDaFaculdade\obj\Debug\net8.0\ref\Ex03_GastoTotalDaFaculdade.dll
