@@ -1,0 +1,15 @@
+C:\Curso-CSharp\Atividades\Ex01_MediaNotas\bin\Debug\net8.0\Ex01_MediaNotas.exe
+C:\Curso-CSharp\Atividades\Ex01_MediaNotas\bin\Debug\net8.0\Ex01_MediaNotas.deps.json
+C:\Curso-CSharp\Atividades\Ex01_MediaNotas\bin\Debug\net8.0\Ex01_MediaNotas.runtimeconfig.json
+C:\Curso-CSharp\Atividades\Ex01_MediaNotas\bin\Debug\net8.0\Ex01_MediaNotas.dll
+C:\Curso-CSharp\Atividades\Ex01_MediaNotas\bin\Debug\net8.0\Ex01_MediaNotas.pdb
+C:\Curso-CSharp\Atividades\Ex01_MediaNotas\obj\Debug\net8.0\Ex01_MediaNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\Atividades\Ex01_MediaNotas\obj\Debug\net8.0\Ex01_MediaNotas.AssemblyInfoInputs.cache
+C:\Curso-CSharp\Atividades\Ex01_MediaNotas\obj\Debug\net8.0\Ex01_MediaNotas.AssemblyInfo.cs
+C:\Curso-CSharp\Atividades\Ex01_MediaNotas\obj\Debug\net8.0\Ex01_MediaNotas.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\Atividades\Ex01_MediaNotas\obj\Debug\net8.0\Ex01_MediaNotas.sourcelink.json
+C:\Curso-CSharp\Atividades\Ex01_MediaNotas\obj\Debug\net8.0\Ex01_MediaNotas.dll
+C:\Curso-CSharp\Atividades\Ex01_MediaNotas\obj\Debug\net8.0\refint\Ex01_MediaNotas.dll
+C:\Curso-CSharp\Atividades\Ex01_MediaNotas\obj\Debug\net8.0\Ex01_MediaNotas.pdb
+C:\Curso-CSharp\Atividades\Ex01_MediaNotas\obj\Debug\net8.0\Ex01_MediaNotas.genruntimeconfig.cache
+C:\Curso-CSharp\Atividades\Ex01_MediaNotas\obj\Debug\net8.0\ref\Ex01_MediaNotas.dll
