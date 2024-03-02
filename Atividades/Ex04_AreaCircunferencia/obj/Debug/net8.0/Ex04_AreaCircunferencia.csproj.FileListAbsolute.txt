@@ -1,0 +1,15 @@
+C:\Curso-CSharp\Atividades\Ex04_AreaCircunferencia\bin\Debug\net8.0\Ex04_AreaCircunferencia.exe
+C:\Curso-CSharp\Atividades\Ex04_AreaCircunferencia\bin\Debug\net8.0\Ex04_AreaCircunferencia.deps.json
+C:\Curso-CSharp\Atividades\Ex04_AreaCircunferencia\bin\Debug\net8.0\Ex04_AreaCircunferencia.runtimeconfig.json
+C:\Curso-CSharp\Atividades\Ex04_AreaCircunferencia\bin\Debug\net8.0\Ex04_AreaCircunferencia.dll
+C:\Curso-CSharp\Atividades\Ex04_AreaCircunferencia\bin\Debug\net8.0\Ex04_AreaCircunferencia.pdb
+C:\Curso-CSharp\Atividades\Ex04_AreaCircunferencia\obj\Debug\net8.0\Ex04_AreaCircunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\Atividades\Ex04_AreaCircunferencia\obj\Debug\net8.0\Ex04_AreaCircunferencia.AssemblyInfoInputs.cache
+C:\Curso-CSharp\Atividades\Ex04_AreaCircunferencia\obj\Debug\net8.0\Ex04_AreaCircunferencia.AssemblyInfo.cs
+C:\Curso-CSharp\Atividades\Ex04_AreaCircunferencia\obj\Debug\net8.0\Ex04_AreaCircunferencia.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\Atividades\Ex04_AreaCircunferencia\obj\Debug\net8.0\Ex04_AreaCircunferencia.sourcelink.json
+C:\Curso-CSharp\Atividades\Ex04_AreaCircunferencia\obj\Debug\net8.0\Ex04_AreaCircunferencia.dll
+C:\Curso-CSharp\Atividades\Ex04_AreaCircunferencia\obj\Debug\net8.0\refint\Ex04_AreaCircunferencia.dll
+C:\Curso-CSharp\Atividades\Ex04_AreaCircunferencia\obj\Debug\net8.0\Ex04_AreaCircunferencia.pdb
+C:\Curso-CSharp\Atividades\Ex04_AreaCircunferencia\obj\Debug\net8.0\Ex04_AreaCircunferencia.genruntimeconfig.cache
+C:\Curso-CSharp\Atividades\Ex04_AreaCircunferencia\obj\Debug\net8.0\ref\Ex04_AreaCircunferencia.dll
