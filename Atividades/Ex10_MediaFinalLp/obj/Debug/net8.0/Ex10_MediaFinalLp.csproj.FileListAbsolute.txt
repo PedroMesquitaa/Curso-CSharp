@@ -1,0 +1,15 @@
+C:\Curso-CSharp\Atividades\Ex10_MediaFinalLp\obj\Debug\net8.0\Ex10_MediaFinalLp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\Atividades\Ex10_MediaFinalLp\obj\Debug\net8.0\Ex10_MediaFinalLp.AssemblyInfoInputs.cache
+C:\Curso-CSharp\Atividades\Ex10_MediaFinalLp\obj\Debug\net8.0\Ex10_MediaFinalLp.AssemblyInfo.cs
+C:\Curso-CSharp\Atividades\Ex10_MediaFinalLp\obj\Debug\net8.0\Ex10_MediaFinalLp.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\Atividades\Ex10_MediaFinalLp\obj\Debug\net8.0\Ex10_MediaFinalLp.sourcelink.json
+C:\Curso-CSharp\Atividades\Ex10_MediaFinalLp\bin\Debug\net8.0\Ex10_MediaFinalLp.exe
+C:\Curso-CSharp\Atividades\Ex10_MediaFinalLp\bin\Debug\net8.0\Ex10_MediaFinalLp.deps.json
+C:\Curso-CSharp\Atividades\Ex10_MediaFinalLp\bin\Debug\net8.0\Ex10_MediaFinalLp.runtimeconfig.json
+C:\Curso-CSharp\Atividades\Ex10_MediaFinalLp\bin\Debug\net8.0\Ex10_MediaFinalLp.dll
+C:\Curso-CSharp\Atividades\Ex10_MediaFinalLp\bin\Debug\net8.0\Ex10_MediaFinalLp.pdb
+C:\Curso-CSharp\Atividades\Ex10_MediaFinalLp\obj\Debug\net8.0\Ex10_MediaFinalLp.dll
+C:\Curso-CSharp\Atividades\Ex10_MediaFinalLp\obj\Debug\net8.0\refint\Ex10_MediaFinalLp.dll
+C:\Curso-CSharp\Atividades\Ex10_MediaFinalLp\obj\Debug\net8.0\Ex10_MediaFinalLp.pdb
+C:\Curso-CSharp\Atividades\Ex10_MediaFinalLp\obj\Debug\net8.0\Ex10_MediaFinalLp.genruntimeconfig.cache
+C:\Curso-CSharp\Atividades\Ex10_MediaFinalLp\obj\Debug\net8.0\ref\Ex10_MediaFinalLp.dll
