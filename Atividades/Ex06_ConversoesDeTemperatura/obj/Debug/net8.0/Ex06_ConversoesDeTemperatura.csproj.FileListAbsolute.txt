@@ -1,0 +1,15 @@
+C:\Curso-CSharp\Atividades\Ex06_ConversoesDeTemperatura\obj\Debug\net8.0\Ex06_ConversoesDeTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\Atividades\Ex06_ConversoesDeTemperatura\obj\Debug\net8.0\Ex06_ConversoesDeTemperatura.AssemblyInfoInputs.cache
+C:\Curso-CSharp\Atividades\Ex06_ConversoesDeTemperatura\obj\Debug\net8.0\Ex06_ConversoesDeTemperatura.AssemblyInfo.cs
+C:\Curso-CSharp\Atividades\Ex06_ConversoesDeTemperatura\obj\Debug\net8.0\Ex06_ConversoesDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\Atividades\Ex06_ConversoesDeTemperatura\obj\Debug\net8.0\Ex06_ConversoesDeTemperatura.sourcelink.json
+C:\Curso-CSharp\Atividades\Ex06_ConversoesDeTemperatura\bin\Debug\net8.0\Ex06_ConversoesDeTemperatura.exe
+C:\Curso-CSharp\Atividades\Ex06_ConversoesDeTemperatura\bin\Debug\net8.0\Ex06_ConversoesDeTemperatura.deps.json
+C:\Curso-CSharp\Atividades\Ex06_ConversoesDeTemperatura\bin\Debug\net8.0\Ex06_ConversoesDeTemperatura.runtimeconfig.json
+C:\Curso-CSharp\Atividades\Ex06_ConversoesDeTemperatura\bin\Debug\net8.0\Ex06_ConversoesDeTemperatura.dll
+C:\Curso-CSharp\Atividades\Ex06_ConversoesDeTemperatura\bin\Debug\net8.0\Ex06_ConversoesDeTemperatura.pdb
+C:\Curso-CSharp\Atividades\Ex06_ConversoesDeTemperatura\obj\Debug\net8.0\Ex06_ConversoesDeTemperatura.dll
+C:\Curso-CSharp\Atividades\Ex06_ConversoesDeTemperatura\obj\Debug\net8.0\refint\Ex06_ConversoesDeTemperatura.dll
+C:\Curso-CSharp\Atividades\Ex06_ConversoesDeTemperatura\obj\Debug\net8.0\Ex06_ConversoesDeTemperatura.pdb
+C:\Curso-CSharp\Atividades\Ex06_ConversoesDeTemperatura\obj\Debug\net8.0\Ex06_ConversoesDeTemperatura.genruntimeconfig.cache
+C:\Curso-CSharp\Atividades\Ex06_ConversoesDeTemperatura\obj\Debug\net8.0\ref\Ex06_ConversoesDeTemperatura.dll
