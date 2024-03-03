@@ -1,0 +1,15 @@
+C:\Curso-CSharp\Atividades\Ex09_ConversaoMonetaria\obj\Debug\net8.0\Ex09_ConversaoMonetaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\Atividades\Ex09_ConversaoMonetaria\obj\Debug\net8.0\Ex09_ConversaoMonetaria.AssemblyInfoInputs.cache
+C:\Curso-CSharp\Atividades\Ex09_ConversaoMonetaria\obj\Debug\net8.0\Ex09_ConversaoMonetaria.AssemblyInfo.cs
+C:\Curso-CSharp\Atividades\Ex09_ConversaoMonetaria\obj\Debug\net8.0\Ex09_ConversaoMonetaria.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\Atividades\Ex09_ConversaoMonetaria\obj\Debug\net8.0\Ex09_ConversaoMonetaria.sourcelink.json
+C:\Curso-CSharp\Atividades\Ex09_ConversaoMonetaria\bin\Debug\net8.0\Ex09_ConversaoMonetaria.exe
+C:\Curso-CSharp\Atividades\Ex09_ConversaoMonetaria\bin\Debug\net8.0\Ex09_ConversaoMonetaria.deps.json
+C:\Curso-CSharp\Atividades\Ex09_ConversaoMonetaria\bin\Debug\net8.0\Ex09_ConversaoMonetaria.runtimeconfig.json
+C:\Curso-CSharp\Atividades\Ex09_ConversaoMonetaria\bin\Debug\net8.0\Ex09_ConversaoMonetaria.dll
+C:\Curso-CSharp\Atividades\Ex09_ConversaoMonetaria\bin\Debug\net8.0\Ex09_ConversaoMonetaria.pdb
+C:\Curso-CSharp\Atividades\Ex09_ConversaoMonetaria\obj\Debug\net8.0\Ex09_ConversaoMonetaria.dll
+C:\Curso-CSharp\Atividades\Ex09_ConversaoMonetaria\obj\Debug\net8.0\refint\Ex09_ConversaoMonetaria.dll
+C:\Curso-CSharp\Atividades\Ex09_ConversaoMonetaria\obj\Debug\net8.0\Ex09_ConversaoMonetaria.pdb
+C:\Curso-CSharp\Atividades\Ex09_ConversaoMonetaria\obj\Debug\net8.0\Ex09_ConversaoMonetaria.genruntimeconfig.cache
+C:\Curso-CSharp\Atividades\Ex09_ConversaoMonetaria\obj\Debug\net8.0\ref\Ex09_ConversaoMonetaria.dll

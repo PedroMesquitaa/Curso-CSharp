@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex09_ConversaoMonetaria", "Ex09_ConversaoMonetaria.csproj", "{244E1FD9-4FEE-46A7-838F-838C9EE80DC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{244E1FD9-4FEE-46A7-838F-838C9EE80DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244E1FD9-4FEE-46A7-838F-838C9EE80DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244E1FD9-4FEE-46A7-838F-838C9EE80DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244E1FD9-4FEE-46A7-838F-838C9EE80DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C3F5719-0C15-4077-85D2-855E6CF3E9C4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ex09_ConversaoMonetaria/1.0.0": {
+        "runtime": {
+          "Ex09_ConversaoMonetaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex09_ConversaoMonetaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
