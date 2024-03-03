@@ -1,0 +1,15 @@
+C:\Curso-CSharp\Atividades\Ex05_InformacoesSalarias\obj\Debug\net8.0\Ex05_InformacoesSalarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\Atividades\Ex05_InformacoesSalarias\obj\Debug\net8.0\Ex05_InformacoesSalarias.AssemblyInfoInputs.cache
+C:\Curso-CSharp\Atividades\Ex05_InformacoesSalarias\obj\Debug\net8.0\Ex05_InformacoesSalarias.AssemblyInfo.cs
+C:\Curso-CSharp\Atividades\Ex05_InformacoesSalarias\obj\Debug\net8.0\Ex05_InformacoesSalarias.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\Atividades\Ex05_InformacoesSalarias\obj\Debug\net8.0\Ex05_InformacoesSalarias.sourcelink.json
+C:\Curso-CSharp\Atividades\Ex05_InformacoesSalarias\bin\Debug\net8.0\Ex05_InformacoesSalarias.exe
+C:\Curso-CSharp\Atividades\Ex05_InformacoesSalarias\bin\Debug\net8.0\Ex05_InformacoesSalarias.deps.json
+C:\Curso-CSharp\Atividades\Ex05_InformacoesSalarias\bin\Debug\net8.0\Ex05_InformacoesSalarias.runtimeconfig.json
+C:\Curso-CSharp\Atividades\Ex05_InformacoesSalarias\bin\Debug\net8.0\Ex05_InformacoesSalarias.dll
+C:\Curso-CSharp\Atividades\Ex05_InformacoesSalarias\bin\Debug\net8.0\Ex05_InformacoesSalarias.pdb
+C:\Curso-CSharp\Atividades\Ex05_InformacoesSalarias\obj\Debug\net8.0\Ex05_InformacoesSalarias.dll
+C:\Curso-CSharp\Atividades\Ex05_InformacoesSalarias\obj\Debug\net8.0\refint\Ex05_InformacoesSalarias.dll
+C:\Curso-CSharp\Atividades\Ex05_InformacoesSalarias\obj\Debug\net8.0\Ex05_InformacoesSalarias.pdb
+C:\Curso-CSharp\Atividades\Ex05_InformacoesSalarias\obj\Debug\net8.0\Ex05_InformacoesSalarias.genruntimeconfig.cache
+C:\Curso-CSharp\Atividades\Ex05_InformacoesSalarias\obj\Debug\net8.0\ref\Ex05_InformacoesSalarias.dll
