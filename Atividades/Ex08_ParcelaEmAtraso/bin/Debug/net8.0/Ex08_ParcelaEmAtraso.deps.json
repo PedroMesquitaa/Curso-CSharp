@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ex08_ParcelaEmAtraso/1.0.0": {
+        "runtime": {
+          "Ex08_ParcelaEmAtraso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex08_ParcelaEmAtraso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

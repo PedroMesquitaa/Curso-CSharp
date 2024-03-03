@@ -1,0 +1,15 @@
+C:\Curso-CSharp\Atividades\Ex08_ParcelaEmAtraso\bin\Debug\net8.0\Ex08_ParcelaEmAtraso.exe
+C:\Curso-CSharp\Atividades\Ex08_ParcelaEmAtraso\bin\Debug\net8.0\Ex08_ParcelaEmAtraso.deps.json
+C:\Curso-CSharp\Atividades\Ex08_ParcelaEmAtraso\bin\Debug\net8.0\Ex08_ParcelaEmAtraso.runtimeconfig.json
+C:\Curso-CSharp\Atividades\Ex08_ParcelaEmAtraso\bin\Debug\net8.0\Ex08_ParcelaEmAtraso.dll
+C:\Curso-CSharp\Atividades\Ex08_ParcelaEmAtraso\bin\Debug\net8.0\Ex08_ParcelaEmAtraso.pdb
+C:\Curso-CSharp\Atividades\Ex08_ParcelaEmAtraso\obj\Debug\net8.0\Ex08_ParcelaEmAtraso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\Atividades\Ex08_ParcelaEmAtraso\obj\Debug\net8.0\Ex08_ParcelaEmAtraso.AssemblyInfoInputs.cache
+C:\Curso-CSharp\Atividades\Ex08_ParcelaEmAtraso\obj\Debug\net8.0\Ex08_ParcelaEmAtraso.AssemblyInfo.cs
+C:\Curso-CSharp\Atividades\Ex08_ParcelaEmAtraso\obj\Debug\net8.0\Ex08_ParcelaEmAtraso.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\Atividades\Ex08_ParcelaEmAtraso\obj\Debug\net8.0\Ex08_ParcelaEmAtraso.sourcelink.json
+C:\Curso-CSharp\Atividades\Ex08_ParcelaEmAtraso\obj\Debug\net8.0\Ex08_ParcelaEmAtraso.dll
+C:\Curso-CSharp\Atividades\Ex08_ParcelaEmAtraso\obj\Debug\net8.0\refint\Ex08_ParcelaEmAtraso.dll
+C:\Curso-CSharp\Atividades\Ex08_ParcelaEmAtraso\obj\Debug\net8.0\Ex08_ParcelaEmAtraso.pdb
+C:\Curso-CSharp\Atividades\Ex08_ParcelaEmAtraso\obj\Debug\net8.0\Ex08_ParcelaEmAtraso.genruntimeconfig.cache
+C:\Curso-CSharp\Atividades\Ex08_ParcelaEmAtraso\obj\Debug\net8.0\ref\Ex08_ParcelaEmAtraso.dll
