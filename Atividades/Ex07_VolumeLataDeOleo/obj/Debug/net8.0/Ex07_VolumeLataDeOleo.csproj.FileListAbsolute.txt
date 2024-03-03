@@ -1,0 +1,15 @@
+C:\Curso-CSharp\Atividades\Ex07_VolumeLataDeOleo\bin\Debug\net8.0\Ex07_VolumeLataDeOleo.exe
+C:\Curso-CSharp\Atividades\Ex07_VolumeLataDeOleo\bin\Debug\net8.0\Ex07_VolumeLataDeOleo.deps.json
+C:\Curso-CSharp\Atividades\Ex07_VolumeLataDeOleo\bin\Debug\net8.0\Ex07_VolumeLataDeOleo.runtimeconfig.json
+C:\Curso-CSharp\Atividades\Ex07_VolumeLataDeOleo\bin\Debug\net8.0\Ex07_VolumeLataDeOleo.dll
+C:\Curso-CSharp\Atividades\Ex07_VolumeLataDeOleo\bin\Debug\net8.0\Ex07_VolumeLataDeOleo.pdb
+C:\Curso-CSharp\Atividades\Ex07_VolumeLataDeOleo\obj\Debug\net8.0\Ex07_VolumeLataDeOleo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\Atividades\Ex07_VolumeLataDeOleo\obj\Debug\net8.0\Ex07_VolumeLataDeOleo.AssemblyInfoInputs.cache
+C:\Curso-CSharp\Atividades\Ex07_VolumeLataDeOleo\obj\Debug\net8.0\Ex07_VolumeLataDeOleo.AssemblyInfo.cs
+C:\Curso-CSharp\Atividades\Ex07_VolumeLataDeOleo\obj\Debug\net8.0\Ex07_VolumeLataDeOleo.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\Atividades\Ex07_VolumeLataDeOleo\obj\Debug\net8.0\Ex07_VolumeLataDeOleo.sourcelink.json
+C:\Curso-CSharp\Atividades\Ex07_VolumeLataDeOleo\obj\Debug\net8.0\Ex07_VolumeLataDeOleo.dll
+C:\Curso-CSharp\Atividades\Ex07_VolumeLataDeOleo\obj\Debug\net8.0\refint\Ex07_VolumeLataDeOleo.dll
+C:\Curso-CSharp\Atividades\Ex07_VolumeLataDeOleo\obj\Debug\net8.0\Ex07_VolumeLataDeOleo.pdb
+C:\Curso-CSharp\Atividades\Ex07_VolumeLataDeOleo\obj\Debug\net8.0\Ex07_VolumeLataDeOleo.genruntimeconfig.cache
+C:\Curso-CSharp\Atividades\Ex07_VolumeLataDeOleo\obj\Debug\net8.0\ref\Ex07_VolumeLataDeOleo.dll
