@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Curso-CSharp\\Atividades\\Ex01_MediaNotas\\Ex01_MediaNotas.csproj": {}
+    "C:\\Curso-CSharp\\Atividades\\Lista de Exercicios 01\\Ex01_MediaNotas\\Ex01_MediaNotas.csproj": {}
   },
   "projects": {
-    "C:\\Curso-CSharp\\Atividades\\Ex01_MediaNotas\\Ex01_MediaNotas.csproj": {
+    "C:\\Curso-CSharp\\Atividades\\Lista de Exercicios 01\\Ex01_MediaNotas\\Ex01_MediaNotas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Curso-CSharp\\Atividades\\Ex01_MediaNotas\\Ex01_MediaNotas.csproj",
+        "projectUniqueName": "C:\\Curso-CSharp\\Atividades\\Lista de Exercicios 01\\Ex01_MediaNotas\\Ex01_MediaNotas.csproj",
         "projectName": "Ex01_MediaNotas",
-        "projectPath": "C:\\Curso-CSharp\\Atividades\\Ex01_MediaNotas\\Ex01_MediaNotas.csproj",
+        "projectPath": "C:\\Curso-CSharp\\Atividades\\Lista de Exercicios 01\\Ex01_MediaNotas\\Ex01_MediaNotas.csproj",
         "packagesPath": "C:\\Users\\Pedro Mesquita\\.nuget\\packages\\",
-        "outputPath": "C:\\Curso-CSharp\\Atividades\\Ex01_MediaNotas\\obj\\",
+        "outputPath": "C:\\Curso-CSharp\\Atividades\\Lista de Exercicios 01\\Ex01_MediaNotas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro Mesquita\\AppData\\Roaming\\NuGet\\NuGet.Config",
