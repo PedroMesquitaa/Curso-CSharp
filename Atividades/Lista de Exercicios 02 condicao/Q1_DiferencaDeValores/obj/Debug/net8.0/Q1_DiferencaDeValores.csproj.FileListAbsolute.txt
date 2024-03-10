@@ -1,0 +1,15 @@
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q1_DiferencaDeValores\bin\Debug\net8.0\Q1_DiferencaDeValores.exe
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q1_DiferencaDeValores\bin\Debug\net8.0\Q1_DiferencaDeValores.deps.json
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q1_DiferencaDeValores\bin\Debug\net8.0\Q1_DiferencaDeValores.runtimeconfig.json
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q1_DiferencaDeValores\bin\Debug\net8.0\Q1_DiferencaDeValores.dll
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q1_DiferencaDeValores\bin\Debug\net8.0\Q1_DiferencaDeValores.pdb
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q1_DiferencaDeValores\obj\Debug\net8.0\Q1_DiferencaDeValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q1_DiferencaDeValores\obj\Debug\net8.0\Q1_DiferencaDeValores.AssemblyInfoInputs.cache
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q1_DiferencaDeValores\obj\Debug\net8.0\Q1_DiferencaDeValores.AssemblyInfo.cs
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q1_DiferencaDeValores\obj\Debug\net8.0\Q1_DiferencaDeValores.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q1_DiferencaDeValores\obj\Debug\net8.0\Q1_DiferencaDeValores.sourcelink.json
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q1_DiferencaDeValores\obj\Debug\net8.0\Q1_DiferencaDeValores.dll
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q1_DiferencaDeValores\obj\Debug\net8.0\refint\Q1_DiferencaDeValores.dll
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q1_DiferencaDeValores\obj\Debug\net8.0\Q1_DiferencaDeValores.pdb
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q1_DiferencaDeValores\obj\Debug\net8.0\Q1_DiferencaDeValores.genruntimeconfig.cache
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q1_DiferencaDeValores\obj\Debug\net8.0\ref\Q1_DiferencaDeValores.dll
