@@ -1,0 +1,15 @@
+C:\Curso-CSharp\EditorHtml\bin\Debug\net8.0\EditorHtml.exe
+C:\Curso-CSharp\EditorHtml\bin\Debug\net8.0\EditorHtml.deps.json
+C:\Curso-CSharp\EditorHtml\bin\Debug\net8.0\EditorHtml.runtimeconfig.json
+C:\Curso-CSharp\EditorHtml\bin\Debug\net8.0\EditorHtml.dll
+C:\Curso-CSharp\EditorHtml\bin\Debug\net8.0\EditorHtml.pdb
+C:\Curso-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Curso-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfo.cs
+C:\Curso-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.sourcelink.json
+C:\Curso-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.dll
+C:\Curso-CSharp\EditorHtml\obj\Debug\net8.0\refint\EditorHtml.dll
+C:\Curso-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.pdb
+C:\Curso-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.genruntimeconfig.cache
+C:\Curso-CSharp\EditorHtml\obj\Debug\net8.0\ref\EditorHtml.dll
