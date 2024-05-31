@@ -1,0 +1,15 @@
+C:\Curso-CSharp\AtvEmAula\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Curso-CSharp\AtvEmAula\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Curso-CSharp\AtvEmAula\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Curso-CSharp\AtvEmAula\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Curso-CSharp\AtvEmAula\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Curso-CSharp\AtvEmAula\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\AtvEmAula\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Curso-CSharp\AtvEmAula\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Curso-CSharp\AtvEmAula\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\AtvEmAula\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+C:\Curso-CSharp\AtvEmAula\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Curso-CSharp\AtvEmAula\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Curso-CSharp\AtvEmAula\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Curso-CSharp\AtvEmAula\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Curso-CSharp\AtvEmAula\Arrays\obj\Debug\net8.0\ref\Arrays.dll
