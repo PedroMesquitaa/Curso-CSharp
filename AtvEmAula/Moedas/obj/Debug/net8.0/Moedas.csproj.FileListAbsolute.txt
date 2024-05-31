@@ -1,0 +1,15 @@
+C:\Curso-CSharp\AtvEmAula\Moedas\bin\Debug\net8.0\Moedas.exe
+C:\Curso-CSharp\AtvEmAula\Moedas\bin\Debug\net8.0\Moedas.deps.json
+C:\Curso-CSharp\AtvEmAula\Moedas\bin\Debug\net8.0\Moedas.runtimeconfig.json
+C:\Curso-CSharp\AtvEmAula\Moedas\bin\Debug\net8.0\Moedas.dll
+C:\Curso-CSharp\AtvEmAula\Moedas\bin\Debug\net8.0\Moedas.pdb
+C:\Curso-CSharp\AtvEmAula\Moedas\obj\Debug\net8.0\Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\AtvEmAula\Moedas\obj\Debug\net8.0\Moedas.AssemblyInfoInputs.cache
+C:\Curso-CSharp\AtvEmAula\Moedas\obj\Debug\net8.0\Moedas.AssemblyInfo.cs
+C:\Curso-CSharp\AtvEmAula\Moedas\obj\Debug\net8.0\Moedas.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\AtvEmAula\Moedas\obj\Debug\net8.0\Moedas.sourcelink.json
+C:\Curso-CSharp\AtvEmAula\Moedas\obj\Debug\net8.0\Moedas.dll
+C:\Curso-CSharp\AtvEmAula\Moedas\obj\Debug\net8.0\refint\Moedas.dll
+C:\Curso-CSharp\AtvEmAula\Moedas\obj\Debug\net8.0\Moedas.pdb
+C:\Curso-CSharp\AtvEmAula\Moedas\obj\Debug\net8.0\Moedas.genruntimeconfig.cache
+C:\Curso-CSharp\AtvEmAula\Moedas\obj\Debug\net8.0\ref\Moedas.dll
