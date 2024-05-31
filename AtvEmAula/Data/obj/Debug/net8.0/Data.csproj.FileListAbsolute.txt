@@ -1,0 +1,15 @@
+C:\Curso-CSharp\AtvEmAula\Data\bin\Debug\net8.0\Data.exe
+C:\Curso-CSharp\AtvEmAula\Data\bin\Debug\net8.0\Data.deps.json
+C:\Curso-CSharp\AtvEmAula\Data\bin\Debug\net8.0\Data.runtimeconfig.json
+C:\Curso-CSharp\AtvEmAula\Data\bin\Debug\net8.0\Data.dll
+C:\Curso-CSharp\AtvEmAula\Data\bin\Debug\net8.0\Data.pdb
+C:\Curso-CSharp\AtvEmAula\Data\obj\Debug\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\AtvEmAula\Data\obj\Debug\net8.0\Data.AssemblyInfoInputs.cache
+C:\Curso-CSharp\AtvEmAula\Data\obj\Debug\net8.0\Data.AssemblyInfo.cs
+C:\Curso-CSharp\AtvEmAula\Data\obj\Debug\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\AtvEmAula\Data\obj\Debug\net8.0\Data.sourcelink.json
+C:\Curso-CSharp\AtvEmAula\Data\obj\Debug\net8.0\Data.dll
+C:\Curso-CSharp\AtvEmAula\Data\obj\Debug\net8.0\refint\Data.dll
+C:\Curso-CSharp\AtvEmAula\Data\obj\Debug\net8.0\Data.pdb
+C:\Curso-CSharp\AtvEmAula\Data\obj\Debug\net8.0\Data.genruntimeconfig.cache
+C:\Curso-CSharp\AtvEmAula\Data\obj\Debug\net8.0\ref\Data.dll
