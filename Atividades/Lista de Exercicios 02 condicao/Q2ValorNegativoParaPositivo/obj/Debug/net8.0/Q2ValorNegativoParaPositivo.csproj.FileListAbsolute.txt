@@ -1,0 +1,15 @@
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q2ValorNegativoParaPositivo\obj\Debug\net8.0\Q2ValorNegativoParaPositivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q2ValorNegativoParaPositivo\obj\Debug\net8.0\Q2ValorNegativoParaPositivo.AssemblyInfoInputs.cache
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q2ValorNegativoParaPositivo\obj\Debug\net8.0\Q2ValorNegativoParaPositivo.AssemblyInfo.cs
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q2ValorNegativoParaPositivo\obj\Debug\net8.0\Q2ValorNegativoParaPositivo.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q2ValorNegativoParaPositivo\obj\Debug\net8.0\Q2ValorNegativoParaPositivo.sourcelink.json
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q2ValorNegativoParaPositivo\bin\Debug\net8.0\Q2ValorNegativoParaPositivo.exe
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q2ValorNegativoParaPositivo\bin\Debug\net8.0\Q2ValorNegativoParaPositivo.deps.json
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q2ValorNegativoParaPositivo\bin\Debug\net8.0\Q2ValorNegativoParaPositivo.runtimeconfig.json
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q2ValorNegativoParaPositivo\bin\Debug\net8.0\Q2ValorNegativoParaPositivo.dll
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q2ValorNegativoParaPositivo\bin\Debug\net8.0\Q2ValorNegativoParaPositivo.pdb
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q2ValorNegativoParaPositivo\obj\Debug\net8.0\Q2ValorNegativoParaPositivo.dll
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q2ValorNegativoParaPositivo\obj\Debug\net8.0\refint\Q2ValorNegativoParaPositivo.dll
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q2ValorNegativoParaPositivo\obj\Debug\net8.0\Q2ValorNegativoParaPositivo.pdb
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q2ValorNegativoParaPositivo\obj\Debug\net8.0\Q2ValorNegativoParaPositivo.genruntimeconfig.cache
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q2ValorNegativoParaPositivo\obj\Debug\net8.0\ref\Q2ValorNegativoParaPositivo.dll
