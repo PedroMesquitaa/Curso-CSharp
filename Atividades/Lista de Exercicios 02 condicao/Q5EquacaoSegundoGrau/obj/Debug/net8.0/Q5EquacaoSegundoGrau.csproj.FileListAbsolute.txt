@@ -1,0 +1,15 @@
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q5EquacaoSegundoGrau\obj\Debug\net8.0\Q5EquacaoSegundoGrau.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q5EquacaoSegundoGrau\obj\Debug\net8.0\Q5EquacaoSegundoGrau.AssemblyInfoInputs.cache
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q5EquacaoSegundoGrau\obj\Debug\net8.0\Q5EquacaoSegundoGrau.AssemblyInfo.cs
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q5EquacaoSegundoGrau\obj\Debug\net8.0\Q5EquacaoSegundoGrau.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q5EquacaoSegundoGrau\obj\Debug\net8.0\Q5EquacaoSegundoGrau.sourcelink.json
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q5EquacaoSegundoGrau\bin\Debug\net8.0\Q5EquacaoSegundoGrau.exe
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q5EquacaoSegundoGrau\bin\Debug\net8.0\Q5EquacaoSegundoGrau.deps.json
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q5EquacaoSegundoGrau\bin\Debug\net8.0\Q5EquacaoSegundoGrau.runtimeconfig.json
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q5EquacaoSegundoGrau\bin\Debug\net8.0\Q5EquacaoSegundoGrau.dll
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q5EquacaoSegundoGrau\bin\Debug\net8.0\Q5EquacaoSegundoGrau.pdb
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q5EquacaoSegundoGrau\obj\Debug\net8.0\Q5EquacaoSegundoGrau.dll
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q5EquacaoSegundoGrau\obj\Debug\net8.0\refint\Q5EquacaoSegundoGrau.dll
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q5EquacaoSegundoGrau\obj\Debug\net8.0\Q5EquacaoSegundoGrau.pdb
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q5EquacaoSegundoGrau\obj\Debug\net8.0\Q5EquacaoSegundoGrau.genruntimeconfig.cache
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q5EquacaoSegundoGrau\obj\Debug\net8.0\ref\Q5EquacaoSegundoGrau.dll
