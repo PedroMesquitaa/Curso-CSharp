@@ -1,0 +1,15 @@
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q3MediaAritmetica1\obj\Debug\net8.0\Q3MediaAritmetica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q3MediaAritmetica1\obj\Debug\net8.0\Q3MediaAritmetica1.AssemblyInfoInputs.cache
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q3MediaAritmetica1\obj\Debug\net8.0\Q3MediaAritmetica1.AssemblyInfo.cs
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q3MediaAritmetica1\obj\Debug\net8.0\Q3MediaAritmetica1.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q3MediaAritmetica1\obj\Debug\net8.0\Q3MediaAritmetica1.sourcelink.json
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q3MediaAritmetica1\bin\Debug\net8.0\Q3MediaAritmetica1.exe
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q3MediaAritmetica1\bin\Debug\net8.0\Q3MediaAritmetica1.deps.json
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q3MediaAritmetica1\bin\Debug\net8.0\Q3MediaAritmetica1.runtimeconfig.json
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q3MediaAritmetica1\bin\Debug\net8.0\Q3MediaAritmetica1.dll
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q3MediaAritmetica1\bin\Debug\net8.0\Q3MediaAritmetica1.pdb
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q3MediaAritmetica1\obj\Debug\net8.0\Q3MediaAritmetica1.dll
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q3MediaAritmetica1\obj\Debug\net8.0\refint\Q3MediaAritmetica1.dll
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q3MediaAritmetica1\obj\Debug\net8.0\Q3MediaAritmetica1.pdb
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q3MediaAritmetica1\obj\Debug\net8.0\Q3MediaAritmetica1.genruntimeconfig.cache
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q3MediaAritmetica1\obj\Debug\net8.0\ref\Q3MediaAritmetica1.dll
