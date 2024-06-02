@@ -1,0 +1,15 @@
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q4MediaAritmetica2\obj\Debug\net8.0\Q4MediaAritmetica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q4MediaAritmetica2\obj\Debug\net8.0\Q4MediaAritmetica2.AssemblyInfoInputs.cache
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q4MediaAritmetica2\obj\Debug\net8.0\Q4MediaAritmetica2.AssemblyInfo.cs
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q4MediaAritmetica2\obj\Debug\net8.0\Q4MediaAritmetica2.csproj.CoreCompileInputs.cache
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q4MediaAritmetica2\obj\Debug\net8.0\Q4MediaAritmetica2.sourcelink.json
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q4MediaAritmetica2\bin\Debug\net8.0\Q4MediaAritmetica2.exe
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q4MediaAritmetica2\bin\Debug\net8.0\Q4MediaAritmetica2.deps.json
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q4MediaAritmetica2\bin\Debug\net8.0\Q4MediaAritmetica2.runtimeconfig.json
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q4MediaAritmetica2\bin\Debug\net8.0\Q4MediaAritmetica2.dll
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q4MediaAritmetica2\bin\Debug\net8.0\Q4MediaAritmetica2.pdb
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q4MediaAritmetica2\obj\Debug\net8.0\Q4MediaAritmetica2.dll
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q4MediaAritmetica2\obj\Debug\net8.0\refint\Q4MediaAritmetica2.dll
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q4MediaAritmetica2\obj\Debug\net8.0\Q4MediaAritmetica2.pdb
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q4MediaAritmetica2\obj\Debug\net8.0\Q4MediaAritmetica2.genruntimeconfig.cache
+C:\Curso-CSharp\Atividades\Lista de Exercicios 02 condicao\Q4MediaAritmetica2\obj\Debug\net8.0\ref\Q4MediaAritmetica2.dll
